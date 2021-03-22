@@ -1,2 +1,2 @@
-# TH Project 1
+# TreeHouse Project 1
  Random Quote Generator
