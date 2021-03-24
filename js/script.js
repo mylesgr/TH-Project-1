@@ -23,7 +23,7 @@ project 1 - A Random Quote Generator
 //"Never let the fear of striking out keep you from playing the game." -Babe Ruth
 
 
-//Quote Array of 10 quotes and authors
+//Quote Array of 10 quotes, authors, and tags
 let quotes = [{
         quote: "The only impossible journey is the one you never begin.",
         author: "Tony Robbins",
