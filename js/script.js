@@ -26,43 +26,53 @@ project 1 - A Random Quote Generator
 //Quote Array of 10 quotes and authors
 let quotes = [{
         quote: "The only impossible journey is the one you never begin.",
-        author: "Tony Robbins"
+        author: "Tony Robbins",
+        tags: "Inspirational"
     },
     {
         quote: "Success is not final; failure is not fatal: It is the courage to continue that counts.",
-        author: "Winston S. Churchill"
+        author: "Winston S. Churchill",
+        tags: "History"
     },
     {
         quote: "The way to get started is to quit talking and begin doing.",
-        author: "Walt Disney"
+        author: "Walt Disney",
+        tags: "Motivational"
     },
     {
         quote: "Do not let making a living prevent you from making a life.",
-        author: "John Wooden"
+        author: "John Wooden",
+        tags: "Inspirational"
     },
     {
         quote: "Life is a long lesson in humility.",
-        author: "James M. Barrie"
+        author: "James M. Barrie",
+        tags: "Motivational"
     },
     {
         quote: "Love the life you live. Live the life you love.",
-        author: "Bob Marley"
+        author: "Bob Marley",
+        tags: "Music"
     },
     {
         quote: "If life were predictable it would cease to be life, and be without flavor.",
-        author: "Eleanor Roosevelt"
+        author: "Eleanor Roosevelt",
+        tags: "History"
     },
     {
         quote: "Life is what happens when you're busy making other plans.",
-        author: "John Lennon"
+        author: "John Lennon",
+        tags: "Music"
     },
     {
         quote: "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-        author: "Benjamin Franklin"
+        author: "Benjamin Franklin",
+        tags: "History"
     },
     {
         quote: "Never let the fear of striking out keep you from playing the game.",
-        author: "Babe Ruth"
+        author: "Babe Ruth",
+        tags: "Sports"
     }
 
 ];
