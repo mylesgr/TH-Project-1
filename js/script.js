@@ -82,8 +82,11 @@ let quotes = [{
  ***/
 
 function getRandomQuote() {
-    let quoteArray = Math.floor(Math.random() * quotes.length); //Random quote selector
-    return quotes[quoteArray]; //returns random quote
+    let quoteArray = Math.floor(Math.random() * quotes.length);
+    for (let i = 0; i < Array.length; i++) {
+        let randomQuote = Array[quoteArray];
+    }
+    return randomQuote;
 }
 
 
